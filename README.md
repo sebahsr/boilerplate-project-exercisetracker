@@ -1,3 +1,10 @@
 # Exercise Tracker
 
-This is the boilerplate for the Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
+This is an Exercise Tracker Microservice built with Node.js, Express, and MongoDB.
+
+## Usage
+
+1. Start the Node.js server:
+
+   ```bash
+   node server.js
